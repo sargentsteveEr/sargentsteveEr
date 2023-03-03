@@ -1,5 +1,2 @@
-dear god 
-<!---
-sargentsteveEr/sargentsteveEr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Metrics](https://github.com/sargentsteveEr/sargentsteveEr/github-metrics.svg)
+![](https://komarev.com/ghpvc/?username=sargentsteveEr&color=green)
