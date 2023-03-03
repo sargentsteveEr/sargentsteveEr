@@ -23,9 +23,6 @@ jobs:
           plugin_introduction: yes
           plugin_lines: yes
           
-          # basic stuff
-          config_tinezone: America/Edmonton
-          
           # languages
           plugin_languages_ignored: HLSL, ShaderLab
           plugin_languages: yes
