@@ -33,4 +33,3 @@ jobs:
           plugin_stars: yes
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
-          plugin_topics_limit: 0
